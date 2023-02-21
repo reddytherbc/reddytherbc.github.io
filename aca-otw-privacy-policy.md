@@ -35,4 +35,4 @@ When making these data transfers, we will take steps to reasonably protect your 
 We reserve the right to make changes to this User Privacy Statement at any time. You agree that it is your responsibility to review this User Privacy Statement regularly for any updates, and that your continued use of ACA OTW constitutes your acceptance to this User Privacy Statement and any of its amendments.
 
 ## 7	Contacting Us
-If you have any questions regarding this User Privacy Statement, please contact us at insurancehelp@baoviet.com.vn.
+If you have any questions regarding this User Privacy Statement, please contact us at cust-aca@aca.co.id.
