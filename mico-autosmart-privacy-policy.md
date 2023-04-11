@@ -5,7 +5,7 @@ permalink: https://reddytherbc.github.io/mico-autosmart-privacy-policy
 # MICO AutoSmart – User Privacy Statement
 
 ## 1	Scope and Application
-Malayan Insurance Company, Inc. (“MICO”, “we”, “us”) collects, uses, discloses and holds information about you when you sign up for and use the MICO AutoSmart mobile application (“MICO AutoSmart”) and when, through your use of MICO AutoSmart or otherwise, you purchase insurance from MICO or have any communications with MICO for these purposes.
+Malayan Insurance Co., Inc. (“MICO”, “we”, “us”) collects, uses, discloses and holds information about you when you sign up for and use the MICO AutoSmart mobile application (“MICO AutoSmart”) and when, through your use of MICO AutoSmart or otherwise, you purchase insurance from MICO or have any communications with MICO for these purposes.
 This User Privacy Statement sets out what and how information is collected, why it is collected, to whom it may be transferred and how you may gain access to/request correction of such information or change your choice with regards to receiving promotional and/or marketing material. It is entirely voluntary for you to provide such information, but there is certain information you must provide a) to access MICO AutoSmart in the first place; and b) to use all functionalities of MICO AutoSmart.
 By signing up to use MICO AutoSmart you agree and consent to the information you submit or which is collected through MICO AutoSmart being collected, processed, used and transferred in the manner identified in this User Privacy Statement.
   
@@ -28,11 +28,11 @@ In addition to the reasons set out above, we may also use your information for t
 We may disclose to or share your information to third parties include affiliates, service providers, business partners and the relevant authorities.
  
 ## 5	Where your information may be processed or transferred?
-Data collected through MICO AutoSmart may be transferred to places outside of Vietnam for the purposes set out above. The countries/jurisdictions to which personal data may be transferred by MICO AutoSmart include, without limitation, Singapore and the United Kingdom.
+Data collected through MICO AutoSmart may be transferred to places outside of The Philippines for the purposes set out above. The countries/jurisdictions to which personal data may be transferred by MICO AutoSmart include, without limitation, Singapore and the United Kingdom.
 When making these data transfers, we will take steps to reasonably protect your information in accordance with the requirements of data protection law.
 
 ## 6	 Changes to this User Privacy Statement
 We reserve the right to make changes to this User Privacy Statement at any time. You agree that it is your responsibility to review this User Privacy Statement regularly for any updates, and that your continued use of MICO AutoSmart constitutes your acceptance to this User Privacy Statement and any of its amendments.
 
 ## 7	Contacting Us
-If you have any questions regarding this User Privacy Statement, please contact us at malayan@malayan.com.
+If you have any questions regarding this User Privacy Statement, please contact us at csc@malayan.com.
